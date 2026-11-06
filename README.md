@@ -14,3 +14,5 @@ For software engineers who want to understand AI engineering and start building 
 For engineers who want to understand how conversational voice agents work and start building them. Explore how speech, models, backend tools, and call handling come together in a working conversation.
 
 - [How Voice AI Agents Work: An Architecture Guide for Software Engineers](https://deepalis0.github.io/series/voice-ai-engineering/how-voice-ai-agents-work.html)
+
+Follow along on [LinkedIn](https://www.linkedin.com/in/deepali-deelip-shinde/) and [X](https://x.com/Deepali_Shinde_).
